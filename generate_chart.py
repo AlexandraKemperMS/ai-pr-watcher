@@ -495,7 +495,7 @@ def export_chart_data_json(df):
     
     # Write JSON file
     json_file = docs_dir / "chart-data.json"
-    with open(json_file, "w") as f:
+    with open(json_file, "w", encoding="utf-8") as f:
         json.dump(chart_data, f, indent=2)
     
     print(f"Chart data exported: {json_file}")

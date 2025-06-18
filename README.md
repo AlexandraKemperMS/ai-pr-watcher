@@ -1,6 +1,6 @@
 ### PR Analytics: Volume vs Success Rate (auto‑updated)
 
-View the [interactive dashboard](https://aavetis.github.io/ai-pr-watcher/) for these statistics.
+View the [interactive dashboard](https://alexandrakemperms.github.io/ai-pr-watcher/) for these statistics.
 
 ## Data sources
 
@@ -25,8 +25,8 @@ Explore the GitHub search queries used:
 
 | Project | Total PRs | Merged PRs | Merge Rate |
 | ------- | --------- | ---------- | ---------- |
-| Copilot | 347 | 148 | 42.65% |
-| Codex   | 7,006 | 5,584 | 79.70% |
+| Copilot | 348 | 148 | 42.53% |
+| Codex   | 7,010 | 5,586 | 79.69% |
 | Cursor  | 27 | 25 | 92.59% |
-| Devin   | 742 | 369 | 49.73% |
+| Devin   | 743 | 369 | 49.66% |
 | Codegen | 16 | 4 | 25.00% |
